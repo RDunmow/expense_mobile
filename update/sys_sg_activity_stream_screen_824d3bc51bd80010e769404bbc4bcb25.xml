@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>background</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon/>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 18:14:40</sys_created_on>
+        <sys_id>824d3bc51bd80010e769404bbc4bcb25</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_824d3bc51bd80010e769404bbc4bcb25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 20:04:52</sys_updated_on>
+        <table>x_snc_richard_mobi_expense_form</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=824d3bc51bd80010e769404bbc4bcb25"/>
+</record_update>

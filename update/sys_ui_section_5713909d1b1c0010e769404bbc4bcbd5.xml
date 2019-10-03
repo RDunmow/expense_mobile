@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5713909d1b1c0010e769404bbc4bcbd5" sys_domain="global" table="x_snc_richard_mobi_expense_line" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>df13d89d1b1c0010e769404bbc4bcbcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>d713d89d1b1c0010e769404bbc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>5b13d89d1b1c0010e769404bbc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incurred_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>db13d89d1b1c0010e769404bbc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>5f13d89d1b1c0010e769404bbc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>df13d89d1b1c0010e769404bbc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expense_form</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>5313d89d1b1c0010e769404bbc4bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incured_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>d313d89d1b1c0010e769404bbc4bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_id>5713d89d1b1c0010e769404bbc4bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_richard_mobi_expense_line" sys_domain="global" view="Default view">5713909d1b1c0010e769404bbc4bcbd5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_richard_mobi_expense_line</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:50:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5713909d1b1c0010e769404bbc4bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_richard_mobi_expense_line</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+            <sys_update_name>sys_ui_section_5713909d1b1c0010e769404bbc4bcbd5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:50:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

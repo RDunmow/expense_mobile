@@ -5,11 +5,10 @@
         <compiled_page_registry display_value="Richard Mobile Expense Tracker">146c3a4ddb948c505a04df8b4b961942</compiled_page_registry>
         <description/>
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="Richard Mobile Expense Tracker Search Context Conf">d46c7a0ddb948c505a04df8b4b9619de</global_search_data>
+        <global_search_data display_value="">d46c7a0ddb948c505a04df8b4b9619de</global_search_data>
         <name>Richard Mobile Expense Tracker</name>
         <navigation_type>tab</navigation_type>
         <notifications_enabled>true</notifications_enabled>
-        <sc_catalog/>
         <search_enabled>true</search_enabled>
         <sys_class_name>sys_aw_master_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>

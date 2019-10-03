@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Expenses">184ff6c1dbd48c505a04df8b4b96191b</applet_launcher>
+        <icon display_value="Expense Forms Icon">1b6ccb4ddb188c505a04df8b4b9619b5</icon>
+        <label>Expenses</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 17:46:01</sys_created_on>
+        <sys_id>f5a6fbcd1b980010e769404bbc4bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expenses</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_f5a6fbcd1b980010e769404bbc4bcb82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 17:46:01</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

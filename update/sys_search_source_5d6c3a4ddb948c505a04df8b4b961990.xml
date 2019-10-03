@@ -17,4 +17,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-03 13:31:11</sys_updated_on>
     </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=5d6c3a4ddb948c505a04df8b4b961990"/>
 </record_update>

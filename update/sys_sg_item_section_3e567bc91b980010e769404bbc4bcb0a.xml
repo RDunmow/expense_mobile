@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="Expense Forms">976ccb4ddb188c505a04df8b4b9619af</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 17:44:25</sys_created_on>
+        <sys_id>3e567bc91b980010e769404bbc4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Forms</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_item_section_3e567bc91b980010e769404bbc4bcb0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 17:44:25</sys_updated_on>
+        <table/>
+        <title>Expense Forms</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

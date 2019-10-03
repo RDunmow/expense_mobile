@@ -20,4 +20,5 @@
         <sys_updated_on>2019-10-03 14:30:13</sys_updated_on>
         <table>x_snc_richard_mobi_expense_form</table>
     </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ee9cb09db188c505a04df8b4b9619e2"/>
 </record_update>

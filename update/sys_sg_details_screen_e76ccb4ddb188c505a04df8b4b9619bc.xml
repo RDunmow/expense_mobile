@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
         <available_offline>false</available_offline>
-        <data_item/>
         <description/>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <icon/>
-        <item_view/>
         <name>Details</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-03 14:41:15</sys_created_on>
         <sys_id>e76ccb4ddb188c505a04df8b4b9619bc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Details</sys_name>
         <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
         <sys_update_name>sys_sg_details_screen_e76ccb4ddb188c505a04df8b4b9619bc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-03 18:09:11</sys_updated_on>
+        <sys_updated_on>2019-10-03 20:04:52</sys_updated_on>
         <table>x_snc_richard_mobi_expense_form</table>
     </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=e76ccb4ddb188c505a04df8b4b9619bc"/>
 </record_update>
