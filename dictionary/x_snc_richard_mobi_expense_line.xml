@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Expense Line" max_length="40" name="x_snc_richard_mobi_expense_line" text_index="true" type="collection">
+        <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="description" type="string"/>
+        <element label="Expense Form" max_length="32" name="expense_form" reference="x_snc_richard_mobi_expense_form" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Incurred Date" max_length="40" name="incurred_date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="expense_form"/>
+        </index>
+    </element>
+</database>
