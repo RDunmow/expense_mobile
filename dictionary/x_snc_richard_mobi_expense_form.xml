@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Expense Form" max_length="40" name="x_snc_richard_mobi_expense_form" text_index="true" type="collection">
+        <element label="Description" max_length="255" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Opened By" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Week Starting" max_length="40" name="week_starting" type="glide_date"/>
+        <index name="index">
+            <element name="opened_by"/>
+        </index>
     </element>
 </database>
