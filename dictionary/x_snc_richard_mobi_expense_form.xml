@@ -3,6 +3,15 @@
         <element label="Description" max_length="255" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Opened By" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element choice="3" default="New" label="State" mandatory="true" max_length="10" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="Approved"/>
+                <element inactive_on_update="false" label="New" value="New"/>
+                <element inactive_on_update="false" label="Paid" value="Paid"/>
+                <element inactive_on_update="false" label="Returned" value="Returned"/>
+                <element inactive_on_update="false" label="Submitted" value="Submitted"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Week Starting" max_length="40" name="week_starting" type="glide_date"/>
         <index name="index">
             <element name="opened_by"/>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Update Expense Line">4d1164221bd04410e769404bbc4bcbad</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>expense_typeexpense_type</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Expense Type</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 18:06:13</sys_created_on>
+        <sys_id>51b1e4221bd04410e769404bbc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Type</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_51b1e4221bd04410e769404bbc4bcb6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 18:06:13</sys_updated_on>
+        <table_name>x_snc_richard_mobi_expense_line</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=51b1e4221bd04410e769404bbc4bcb6e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</application>
+        <file_path/>
+        <instance_id>14e7a3addbdb77c891232f17d4961920</instance_id>
+        <instance_name>dev91868</instance_name>
+        <name>sys_sg_ui_parameter_51b1e4221bd04410e769404bbc4bcb6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Update Expense Line">4d1164221bd04410e769404bbc4bcbad</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>expense_typeexpense_type</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>Expense Type</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-07 18:06:13</sys_created_on><sys_id>51b1e4221bd04410e769404bbc4bcb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Expense Type</sys_name><sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package><sys_policy/><sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope><sys_update_name>sys_sg_ui_parameter_51b1e4221bd04410e769404bbc4bcb6e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-07 18:06:13</sys_updated_on><table_name>x_snc_richard_mobi_expense_line</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=51b1e4221bd04410e769404bbc4bcb6e"/></record_update>]]></payload>
+        <payload_hash>-96144079</payload_hash>
+        <record_name>Expense Type</record_name>
+        <reverted_from/>
+        <source>9d0d3bc51bd80010e769404bbc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 18:06:13</sys_created_on>
+        <sys_id>15b1e4221bd04410e769404bbc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16da76679650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 18:06:13</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>5db1e422e7d044105fbe2e856b66416f</update_guid>
+        <update_guid_history>5db1e422e7d044105fbe2e856b66416f:-96144079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 15:37:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>e1c9b549ab45479e90b86704e7a9db01</sys_id>
+        <sys_metadata>51b1e4221bd04410e769404bbc4bcb6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Type</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_scope_delete display_value="">71f4759bb70743ca853c282632a80264</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_51b1e4221bd04410e769404bbc4bcb6e</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_51b1e4221bd04410e769404bbc4bcb6e">15b1e4221bd04410e769404bbc4bcb70</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:37:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

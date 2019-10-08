@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Paid Expenses</name>
+        <query_condition table="x_snc_richard_mobi_expense_form">state=Paid<item display_value="Paid" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="Paid"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 15:58:12</sys_created_on>
+        <sys_id>b7fd89b61bd08410e769404bbc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Paid Expenses</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_data_item_b7fd89b61bd08410e769404bbc4bcb6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:58:12</sys_updated_on>
+        <table>x_snc_richard_mobi_expense_form</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7fd89b61bd08410e769404bbc4bcb6e"/>
+</record_update>

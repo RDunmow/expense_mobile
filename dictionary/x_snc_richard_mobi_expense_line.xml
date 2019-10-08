@@ -3,6 +3,16 @@
         <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="amount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="description" type="string"/>
         <element label="Expense Form" max_length="32" name="expense_form" reference="x_snc_richard_mobi_expense_form" type="reference"/>
+        <element choice="3" label="Expense Type" max_length="25" name="expense_typeexpense_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Air Fare" value="AirFare"/>
+                <element inactive_on_update="false" label="Food" value="Food"/>
+                <element inactive_on_update="false" label="Hotel" value="Hotel"/>
+                <element inactive_on_update="false" label="Parking" value="Parking"/>
+                <element inactive_on_update="false" label="Taxis" value="Taxis"/>
+                <element inactive_on_update="false" label="Train" value="Train"/>
+            </choice>
+        </element>
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Incured By" max_length="32" name="incured_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Incurred Date" max_length="40" name="incurred_date" type="glide_date"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

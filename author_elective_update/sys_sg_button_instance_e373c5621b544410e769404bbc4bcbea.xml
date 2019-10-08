@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Expense Line">92a994551b5c0010e769404bbc4bcb49</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name/>
+        <order>20</order>
+        <parent>66701cd91b1c0010e769404bbc4bcb3e</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 20:33:50</sys_created_on>
+        <sys_id>e373c5621b544410e769404bbc4bcbea</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e373c5621b544410e769404bbc4bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:43:08</sys_updated_on>
+        <table>x_snc_richard_mobi_expense_line</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e373c5621b544410e769404bbc4bcbea"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</application>
+        <file_path/>
+        <instance_id>14e7a3addbdb77c891232f17d4961920</instance_id>
+        <instance_name>dev91868</instance_name>
+        <name>sys_sg_button_instance_e373c5621b544410e769404bbc4bcbea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Expense Line">92a994551b5c0010e769404bbc4bcb49</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name/><order>20</order><parent>66701cd91b1c0010e769404bbc4bcb3e</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-07 20:33:50</sys_created_on><sys_id>e373c5621b544410e769404bbc4bcbea</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package><sys_policy/><sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope><sys_update_name>sys_sg_button_instance_e373c5621b544410e769404bbc4bcbea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-08 15:43:08</sys_updated_on><table>x_snc_richard_mobi_expense_line</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=e373c5621b544410e769404bbc4bcbea"/></record_update>]]></payload>
+        <payload_hash>-1432595860</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9d0d3bc51bd80010e769404bbc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 15:43:08</sys_created_on>
+        <sys_id>8b8a85f21bd08410e769404bbc4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dac09d4340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:43:08</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>078a85f289d0841031373439c705525f</update_guid>
+        <update_guid_history>078a85f289d0841031373439c705525f:-1432595860,4193c962bf5444105eac4c97707f8846:1424318571,eb73c5625354441036bdf91f556549eb:-1432595860</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 16:21:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0aa9f422a428493883c2fd9b8b6bc071</sys_id>
+        <sys_metadata>e373c5621b544410e769404bbc4bcbea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_scope_delete display_value="">71f4759bb70743ca853c282632a80264</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_e373c5621b544410e769404bbc4bcbea</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_e373c5621b544410e769404bbc4bcbea">8b8a85f21bd08410e769404bbc4bcb5f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 16:21:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

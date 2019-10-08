@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Update Expense Line">4d1164221bd04410e769404bbc4bcbad</button>
+        <item_parameter display_value="Expense Type">568064ee1b904410e769404bbc4bcbaf</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 18:07:51</sys_created_on>
+        <sys_id>dd12e8621bd04410e769404bbc4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>568064ee1b904410e769404bbc4bcbaf</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_dd12e8621bd04410e769404bbc4bcb44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 18:07:51</sys_updated_on>
+        <ui_parameter display_value="Expense Type">51b1e4221bd04410e769404bbc4bcb6e</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</application>
+        <file_path/>
+        <instance_id>14e7a3addbdb77c891232f17d4961920</instance_id>
+        <instance_name>dev91868</instance_name>
+        <name>sys_sg_action_param_map_dd12e8621bd04410e769404bbc4bcb44</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Update Expense Line">4d1164221bd04410e769404bbc4bcbad</button><item_parameter display_value="Expense Type">568064ee1b904410e769404bbc4bcbaf</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-07 18:07:51</sys_created_on><sys_id>dd12e8621bd04410e769404bbc4bcb44</sys_id><sys_mod_count>0</sys_mod_count><sys_name>568064ee1b904410e769404bbc4bcbaf</sys_name><sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package><sys_policy/><sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope><sys_update_name>sys_sg_action_param_map_dd12e8621bd04410e769404bbc4bcb44</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-07 18:07:51</sys_updated_on><ui_parameter display_value="Expense Type">51b1e4221bd04410e769404bbc4bcb6e</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-2004436268</payload_hash>
+        <record_name>568064ee1b904410e769404bbc4bcbaf</record_name>
+        <reverted_from/>
+        <source>9d0d3bc51bd80010e769404bbc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-07 18:07:52</sys_created_on>
+        <sys_id>dd12e8621bd04410e769404bbc4bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16da767f8c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-07 18:07:52</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>1912e862e9d044108f63e8c8400a9746</update_guid>
+        <update_guid_history>1912e862e9d044108f63e8c8400a9746:-2004436268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 15:37:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>6adb12278de94c308644da3d1d60e0a9</sys_id>
+        <sys_metadata>dd12e8621bd04410e769404bbc4bcb44</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>568064ee1b904410e769404bbc4bcbaf</sys_name>
+        <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
+        <sys_scope_delete display_value="">71f4759bb70743ca853c282632a80264</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_dd12e8621bd04410e769404bbc4bcb44</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_dd12e8621bd04410e769404bbc4bcb44">dd12e8621bd04410e769404bbc4bcb46</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:37:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

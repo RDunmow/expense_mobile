@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-03 14:41:15</sys_created_on>
         <sys_id>e76ccb4ddb188c505a04df8b4b9619bc</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Details</sys_name>
         <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
         <sys_update_name>sys_sg_details_screen_e76ccb4ddb188c505a04df8b4b9619bc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-03 20:04:52</sys_updated_on>
+        <sys_updated_on>2019-10-08 16:17:33</sys_updated_on>
         <table>x_snc_richard_mobi_expense_form</table>
     </sys_sg_details_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=e76ccb4ddb188c505a04df8b4b9619bc"/>

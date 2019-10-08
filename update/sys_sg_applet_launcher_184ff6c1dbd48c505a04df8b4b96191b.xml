@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-03 13:43:40</sys_created_on>
         <sys_id>184ff6c1dbd48c505a04df8b4b96191b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Expenses</sys_name>
         <sys_package display_value="Richard Mobile Expense Tracker" source="x_snc_richard_mobi">b35932c5db948c505a04df8b4b96192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Richard Mobile Expense Tracker">b35932c5db948c505a04df8b4b96192c</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_184ff6c1dbd48c505a04df8b4b96191b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-03 19:45:29</sys_updated_on>
+        <sys_updated_on>2019-10-03 20:34:42</sys_updated_on>
         <title>Expenses</title>
     </sys_sg_applet_launcher>
 </record_update>
